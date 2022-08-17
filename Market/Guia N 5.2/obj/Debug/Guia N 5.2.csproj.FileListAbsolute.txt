@@ -1,0 +1,19 @@
+C:\Programacion\SEMI\Guia N 5.2\Guia N 5.2\bin\Debug\Guia N 5.2.exe.config
+C:\Programacion\SEMI\Guia N 5.2\Guia N 5.2\bin\Debug\Guia N 5.2.exe
+C:\Programacion\SEMI\Guia N 5.2\Guia N 5.2\bin\Debug\Guia N 5.2.pdb
+C:\Programacion\SEMI\Guia N 5.2\Guia N 5.2\obj\Debug\Guia N 5.2.csprojResolveAssemblyReference.cache
+C:\Programacion\SEMI\Guia N 5.2\Guia N 5.2\obj\Debug\Guia_N_5._2.Form1.resources
+C:\Programacion\SEMI\Guia N 5.2\Guia N 5.2\obj\Debug\Guia_N_5._2.Properties.Resources.resources
+C:\Programacion\SEMI\Guia N 5.2\Guia N 5.2\obj\Debug\Guia N 5.2.csproj.GenerateResource.Cache
+C:\Programacion\SEMI\Guia N 5.2\Guia N 5.2\obj\Debug\Guia N 5.2.exe
+C:\Programacion\SEMI\Guia N 5.2\Guia N 5.2\obj\Debug\Guia N 5.2.pdb
+C:\Programacion\SEMI\GUIA 5\Guia N 5.2\Guia N 5.2\bin\Debug\Guia N 5.2.exe.config
+C:\Programacion\SEMI\GUIA 5\Guia N 5.2\Guia N 5.2\bin\Debug\Guia N 5.2.exe
+C:\Programacion\SEMI\GUIA 5\Guia N 5.2\Guia N 5.2\bin\Debug\Guia N 5.2.pdb
+C:\Programacion\SEMI\GUIA 5\Guia N 5.2\Guia N 5.2\obj\Debug\Guia N 5.2.csprojResolveAssemblyReference.cache
+C:\Programacion\SEMI\GUIA 5\Guia N 5.2\Guia N 5.2\obj\Debug\Guia_N_5._2.Form1.resources
+C:\Programacion\SEMI\GUIA 5\Guia N 5.2\Guia N 5.2\obj\Debug\Guia_N_5._2.Properties.Resources.resources
+C:\Programacion\SEMI\GUIA 5\Guia N 5.2\Guia N 5.2\obj\Debug\Guia N 5.2.csproj.GenerateResource.Cache
+C:\Programacion\SEMI\GUIA 5\Guia N 5.2\Guia N 5.2\obj\Debug\Guia N 5.2.exe
+C:\Programacion\SEMI\GUIA 5\Guia N 5.2\Guia N 5.2\obj\Debug\Guia N 5.2.pdb
+C:\Programacion\SEMI\GUIA 5\Guia N 5.2\Guia N 5.2\obj\Debug\Guia_N_5._2.Form2.resources
